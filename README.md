@@ -14,7 +14,7 @@ Na StarTech, acreditamos que a tecnologia certa pode transformar negócios e imp
 
 Seja qual for o desafio, estamos aqui para ajudar sua empresa a prosperar na era digital. Entre em contato conosco hoje mesmo para descobrir como podemos impulsionar o sucesso do seu negócio.
 
-# StarTech
+
 
 #### Sobre a empresa
 
