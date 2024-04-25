@@ -1,6 +1,7 @@
 # AtividadeGithubItTalent
 Atividade Prática de Github It Talent
 
+
 Uma introdução a uma empresa fictícia
 
 # **StarTech**
@@ -12,3 +13,14 @@ Nosso foco está em fornecer soluções sob medida que atendam às necessidades 
 Na StarTech, acreditamos que a tecnologia certa pode transformar negócios e impulsionar o crescimento. Estamos comprometidos em estar pela busca constante da inovação, adotando as mais recentes tendências e tecnologias emergentes para garantir que nossos clientes estejam sempre um passo à frente.
 
 Seja qual for o desafio, estamos aqui para ajudar sua empresa a prosperar na era digital. Entre em contato conosco hoje mesmo para descobrir como podemos impulsionar o sucesso do seu negócio.
+
+# StarTech
+
+#### Sobre a empresa
+
+-------------------------------------------------------
+
+<p>Em 2018, nossa jornada teve início com apenas três estudantes repletos de entusiasmo e uma profunda paixão pela tecnologia. Durante uma pequena reunião repleta de ideias inovadoras, nasceu o plano Star. Embora possa não ser um nome familiar, essa iniciativa, embora mal sucedida, serviu como um trampolim para o desenvolvimento do projeto StarTech.
+
+Nossas primeiras soluções foram impactantes, e mais do que produtos, entregamos um relacionamento genuíno aos nossos clientes. Hoje, nosso time não apenas se destaca por sua dedicação aos projetos, mas também pelo compromisso com o bem-estar de nossos colaboradores. Além disso, desempenhamos um papel social significativo em nossa comunidade, buscando causar um impacto positivo além dos limites de nossos escritórios.</p>
+
