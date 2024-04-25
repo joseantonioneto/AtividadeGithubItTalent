@@ -2,7 +2,6 @@
 Atividade Prática de Github It Talent
 
 
-Uma introdução a uma empresa fictícia
 
 # **StarTech**
 
@@ -14,7 +13,6 @@ Na StarTech, acreditamos que a tecnologia certa pode transformar negócios e imp
 
 Seja qual for o desafio, estamos aqui para ajudar sua empresa a prosperar na era digital. Entre em contato conosco hoje mesmo para descobrir como podemos impulsionar o sucesso do seu negócio.
 
-# StarTech
 
 #### Sobre a empresa
 
@@ -24,3 +22,19 @@ Seja qual for o desafio, estamos aqui para ajudar sua empresa a prosperar na era
 
 Nossas primeiras soluções foram impactantes, e mais do que produtos, entregamos um relacionamento genuíno aos nossos clientes. Hoje, nosso time não apenas se destaca por sua dedicação aos projetos, mas também pelo compromisso com o bem-estar de nossos colaboradores. Além disso, desempenhamos um papel social significativo em nossa comunidade, buscando causar um impacto positivo além dos limites de nossos escritórios.</p>
 
+
+
+### Lista de Clientes e Cargos
+
+| Nome            | Cargo                       |
+|-----------------|-----------------------------|
+| Brad Pitt       | Diretor de Marketing        |
+| Angelina Jolie  | Gerente de Recursos Humanos |
+| Leonardo DiCaprio | Analista de Dados Sênior  |
+| Jennifer Lawrence | Coordenadora de Vendas    |
+| Tom Hanks       | Chefe de Operações          |
+| Charlize Theron | Diretora Financeira         |
+| Will Smith      | Engenheiro de Software      |
+| Julia Roberts   | Especialista em Atendimento ao Cliente |
+| George Clooney  | Gerente de Projetos         |
+| Meryl Streep    | Designer de Produto         |
